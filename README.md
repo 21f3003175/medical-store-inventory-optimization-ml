@@ -21,10 +21,10 @@ This project builds a data-driven system to:
 
 ## 📊 Key Insights
 
-## 📊 Key Insights
+
 
 ### 📉 Inventory Loss
-<img width="497" height="226" alt="Expired Stock Distribution" src="https://github.com/user-attachments/assets/458a352d-b490-4378-bc4a-7461ba4dbb91" />
+<img width="800" height="226" alt="Expired Stock Distribution" src="https://github.com/user-attachments/assets/458a352d-b490-4378-bc4a-7461ba4dbb91" />
 
 - ~16% of expired stock was never sold  
 👉 Direct financial loss
@@ -32,7 +32,7 @@ This project builds a data-driven system to:
 ---
 
 ### ⚖️ Stock Imbalance
-<img width="923" height="432" alt="Top Overstocked and Understocked Medicines" src="https://github.com/user-attachments/assets/21815a85-21f5-4a5d-9c57-a841061135f6" />
+<img width="800" height="432" alt="Top Overstocked and Understocked Medicines" src="https://github.com/user-attachments/assets/21815a85-21f5-4a5d-9c57-a841061135f6" />
 
 
 - Overstocked items: Capital blocked  
@@ -41,7 +41,7 @@ This project builds a data-driven system to:
 ---
 
 ### 📈 Sales Forecasting
-<img width="1037" height="532" alt="Daily Sales Trends Actual vs Predicted" src="https://github.com/user-attachments/assets/319cf2e1-5781-411a-8ce6-7165fabcefc9" />
+<img width="800" height="532" alt="Daily Sales Trends Actual vs Predicted" src="https://github.com/user-attachments/assets/319cf2e1-5781-411a-8ce6-7165fabcefc9" />
 
 
 - ML model achieved **R² ≈ 0.79**
@@ -51,31 +51,31 @@ This project builds a data-driven system to:
 ## 📸 Visual Insights
 
 ### ABC Analysis
-<img width="847" height="401" alt="ABC Analysis Inventory Value Contribution by Medicine" src="https://github.com/user-attachments/assets/b17bae44-8219-4b95-ad1b-28956a220453" />
+<img width="800" height="401" alt="ABC Analysis Inventory Value Contribution by Medicine" src="https://github.com/user-attachments/assets/b17bae44-8219-4b95-ad1b-28956a220453" />
 
 
 ### Customer Segmentation (RFM)
-<img width="702" height="487" alt="Medicine Recency vs Frequency (Bubble Size = Monetary Value)" src="https://github.com/user-attachments/assets/51bbcd0d-2301-431f-99a3-540d65acc783" />
+<img width="800" height="487" alt="Medicine Recency vs Frequency (Bubble Size = Monetary Value)" src="https://github.com/user-attachments/assets/51bbcd0d-2301-431f-99a3-540d65acc783" />
 
 
 ### Efficiency Analysis (DEA)
-<img width="870" height="476" alt="Top 20 Efficient Medicines (DEA Score)" src="https://github.com/user-attachments/assets/cc7e12da-a147-4a70-9296-94d62667efa4" />
+<img width="800" height="476" alt="Top 20 Efficient Medicines (DEA Score)" src="https://github.com/user-attachments/assets/cc7e12da-a147-4a70-9296-94d62667efa4" />
 
 
 
 ### 💊 High-Value Products
-- Small number of medicines drive most revenue (ABC)
-- Few products dominate performance (RFM + DEA)
+  - Small number of medicines drive most revenue (ABC)
+  - Few products dominate performance (RFM + DEA)
 
-👉 Focus on "sales drivers"
+  👉 Focus on "sales drivers"
 
 ---
 
 ### 📈 Sales Prediction
-- ML model achieved **R² ≈ 0.79**
-- Reliable demand forecasting
+  - ML model achieved **R² ≈ 0.79**
+  - Reliable demand forecasting
 
-👉 Enables proactive decision-making
+  👉 Enables proactive decision-making
 
 ---
 
@@ -228,5 +228,5 @@ Based on this analysis:
 
 ---
 
-**Last Updated**: fab 2026 
+**Last Updated**: Feb 2026 
 **Maintained by**: ashish kumar sharma
