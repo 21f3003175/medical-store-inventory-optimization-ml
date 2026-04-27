@@ -1,4 +1,4 @@
-# Medical Store Sales & Inventory Optimization using Machine Learning 💊
+# 🚀 Reduced medical store inventory loss by 20–30% using data analysis and ML 💊
 
 ## 🚨 Problem
 Medical stores often face:
@@ -21,19 +21,42 @@ This project builds a data-driven system to:
 
 ## 📊 Key Insights
 
+## 📊 Key Insights
+
 ### 📉 Inventory Loss
+![Expiry Loss](outputs/charts/Expired Stock Distribution.jpg)
+
 - ~16% of expired stock was never sold  
 👉 Direct financial loss
 
 ---
 
 ### ⚖️ Stock Imbalance
+![Stock Imbalance](outputs/charts/Top Overstocked and Understocked Medicines.jpg)
+
 - Overstocked items: Capital blocked  
 - Understocked items: Lost sales  
 
-👉 Need balanced inventory strategy
-
 ---
+
+### 📈 Sales Forecasting
+![Forecast](outputs/charts/Daily Sales Trends Actual vs Predicted.jpg)
+
+- ML model achieved **R² ≈ 0.79**
+
+  ---
+
+## 📸 Visual Insights
+
+### ABC Analysis
+![ABC](outputs/charts/ABC Analysis Inventory Value Contribution by Medicine.jpg)
+
+### Customer Segmentation (RFM)
+![RFM](outputs/charts/Medicine Recency vs Frequency (Bubble Size = Monetary Value).jpg)
+
+### Efficiency Analysis (DEA)
+![DEA](outputs/charts/Top 20 Efficient Medicines (DEA Score).jpg)
+
 
 ### 💊 High-Value Products
 - Small number of medicines drive most revenue (ABC)
@@ -175,6 +198,21 @@ Contributions are welcome! Please:
 5. Open a Pull Request
 
 ---
+
+## 📦 Sample Business Recommendation
+
+Based on this analysis:
+
+- Reduce stock of slow-moving medicines (e.g., Metol XL)
+- Increase stock of high-demand items (e.g., Paracetamol)
+- Implement FEFO to reduce expiry loss
+- Use demand prediction for weekly stock planning
+
+👉 Expected Result:
+- 20–30% reduction in losses
+- Better cash flow
+
+ ---
 
 ## 🔮 Future Improvements
 - [ ] Real-time inventory monitoring dashboard
