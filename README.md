@@ -185,5 +185,5 @@ Contributions are welcome! Please:
 
 ---
 
-**Last Updated**: April 2024  
-**Maintained by**: Your Name
+**Last Updated**: fab 2026 
+**Maintained by**: ashish kumar sharma
