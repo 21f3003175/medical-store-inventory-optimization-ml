@@ -156,8 +156,7 @@ A data-driven approach can significantly improve profitability and reduce waste 
 
 ## 📧 Contact & Support
 For questions, collaborations, or deployment inquiries:
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your Profile]
+- **Email**: ashishpay2@gmail.com
 - **GitHub Issues**: Open an issue for bugs or feature requests
 
 ---
