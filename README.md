@@ -24,7 +24,7 @@ This project builds a data-driven system to:
 ## 📊 Key Insights
 
 ### 📉 Inventory Loss
-![Expiry Loss](outputs/charts/Expired Stock Distribution.jpg)
+[![Expiry Loss](outputs/charts/Expired Stock Distribution.jpg)](outputs/charts/Expired Stock Distribution.jpg)
 
 - ~16% of expired stock was never sold  
 👉 Direct financial loss
