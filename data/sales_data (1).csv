@@ -1,0 +1,545 @@
+date,Medicine Name,Medicine Type,Medicine Category,Pack Size,Sold Quantity,Selling Price,Total Sales Amount,Received Medicine Price per pack,profit per sold pack ,overall profit
+11/01/2024,cheston-cold,tablet,generic,10,1,30,30,12.5,17.5,17.5
+11/01/2024,montas-l,tablet,generic,10,1,80,80,28.5,51.5,51.5
+11/01/2024,AtoskyÂ GoldÂ 20,Capsule,generic,10,3,60,180,29,31,93
+11/01/2024,acyclosure p,tablet,generic,10,1,30,30,9.75,20.25,20.25
+11/01/2024,pet sefa,powder,Ayurvedic,1,1,110,110,34.5,75.5,75.5
+11/01/2024,remium gold,Capsule,generic,10,1,80,80,27.5,52.5,52.5
+11/01/2024,Megaspas,tablet,generic,10,1,20,20,4.5,15.5,15.5
+11/02/2024,Metol xl-25 ,tablet,generic,10,2,30,60,8.75,21.25,42.5
+11/02/2024,remium gold,Capsule,generic,10,3,80,240,27.5,52.5,157.5
+11/02/2024,acyclosure p,tablet,generic,10,1,30,30,9.75,20.25,20.25
+11/02/2024,cheston-cold,tablet,generic,10,1,30,30,12.5,17.5,17.5
+11/02/2024,montas-l,tablet,generic,10,1,80,80,28.5,51.5,51.5
+11/02/2024,fenak plus,tablet,generic,10,1,10,10,3,7,7
+11/02/2024,zandu baim,balm,Ayurvedic,1,1,40,40,17.5,22.5,22.5
+11/02/2024,omee ,Syrup,generic,1,1,80,80,26.5,53.5,53.5
+11/03/2024,prega news,kit,branded,1,1,50,50,17,33,33
+11/03/2024,Nimos P,tablet,generic,10,1,20,20,3.75,16.25,16.25
+11/03/2024,esomifor dsr,Capsule,generic,10,3,120,360,58.5,61.5,184.5
+11/03/2024,clavix gold 20,Capsule,branded,15,2,110,220,53.75,56.25,112.5
+11/04/2024,cheston-cold,tablet,generic,10,2,30,60,12.5,17.5,35
+11/04/2024,acyclosure p,tablet,generic,10,1,30,30,9.75,20.25,20.25
+11/04/2024,montecip LC,tablet,generic,10,1,80,80,24,56,56
+11/04/2024,pantomac-dsr,Capsule,generic,10,1,90,90,28.75,61.25,61.25
+11/04/2024,pet sefa,powder,Ayurvedic,1,1,110,110,34.5,75.5,75.5
+11/04/2024,ascodex ls,Syrup,generic,1,1,90,90,37,53,53
+11/04/2024,montas-l,tablet,generic,10,1,80,80,28.5,51.5,51.5
+11/05/2024,oflokem-200,tablet,generic,10,1,50,50,12.33,37.67,37.67
+11/05/2024,AtoskyÂ GoldÂ 20,Capsule,generic,10,3,60,180,29,31,93
+11/05/2024,metol xl-25 ,tablet,generic,10,3,30,90,8.75,21.25,63.75
+11/05/2024,acyclosure p,tablet,generic,10,1,30,30,9.75,20.25,20.25
+11/05/2024,cheston-cold,tablet,generic,10,1,30,30,12.5,17.5,17.5
+11/05/2024,montas-l,tablet,generic,10,1,80,80,28.5,51.5,51.5
+11/06/2024,Megaspas,tablet,generic,10,1,20,20,4.5,15.5,15.5
+11/06/2024,cheston-cold,tablet,generic,10,2,30,60,12.5,17.5,35
+11/06/2024,montecip LC,tablet,generic,10,1,80,80,24,56,56
+11/06/2024,AtoskyÂ GoldÂ 20,Capsule,generic,10,3,60,180,29,31,93
+11/06/2024,metol xl-25 ,tablet,generic,10,3,30,90,8.75,21.25,63.75
+11/06/2024,prega news,kit,branded,1,1,50,50,17,33,33
+11/06/2024,citrasol,Syrup,generic,1,1,70,70,37,33,33
+11/07/2024,remium gold ,Capsule,generic,10,3,80,240,27.5,52.5,157.5
+11/07/2024,metol xl-25 ,tablet,generic,10,3,30,90,8.75,21.25,63.75
+11/07/2024,pet sefa,powder,Ayurvedic,1,1,110,110,34.5,75.5,75.5
+11/07/2024,amrox-ls,Syrup,generic,1,1,90,90,35.5,54.5,54.5
+11/07/2024,zandu baim,balm,Ayurvedic,1,1,40,40,17.5,22.5,22.5
+11/07/2024,pantomac-dsr,Capsule,generic,10,1,90,90,28.75,61.25,61.25
+11/07/2024,gm-sr 2,tablet,generic,10,3,50,150,19.17,30.83,92.49
+11/08/2024,metol xl-25 ,tablet,generic,10,3,30,90,8.75,21.25,63.75
+11/08/2024,AtoskyÂ GoldÂ 20,Capsule,generic,10,2,60,120,29,31,62
+11/08/2024,cheston-cold,tablet,generic,10,2,30,60,12.5,17.5,35
+11/08/2024,acyclosure p,tablet,generic,10,2,30,60,9.75,20.25,40.5
+11/08/2024,montas-l,tablet,generic,10,2,70,140,28.5,41.5,83
+11/08/2024,esomifor dsr,Capsule,generic,10,1,110,110,58.5,51.5,51.5
+11/09/2024,hemoplus,Syrup,generic,1,1,110,110,47.33,62.67,62.67
+11/09/2024,luliconazole cream,cream,generic,1,1,120,120,66,54,54
+11/09/2024,dynaflex spray,spray,generic,1,1,170,170,87,83,83
+11/09/2024,pantosec ls,Capsule,generic,10,2,120,240,57,63,126
+11/10/2024,cipvildin-m,tablet,generic,10,2,100,200,45.75,54.25,108.5
+11/10/2024,metol xl-25 ,tablet,generic,10,2,30,60,8.75,21.25,42.5
+11/10/2024,dermikem oc,cream,generic,1,1,80,80,31,49,49
+11/10/2024,orthomac gel,gel,generic,1,1,100,100,33,67,67
+11/10/2024,AtoskyÂ GoldÂ 20,Capsule,generic,10,2,60,120,29,31,62
+11/11/2024,cosart-h,tablet,generic,10,2,80,160,25,55,110
+11/11/2024,dailyglim pm 2,tablet,generic,10,3,70,210,29,41,123
+11/11/2024,gm-sr 2,tablet,generic,10,3,50,150,19.17,30.83,92.49
+11/11/2024,rabesec-dsr,Capsule,generic,10,3,100,300,31.33,68.67,206.01
+11/11/2024,festive dee,drop,generic,1,1,50,50,22,28,28
+11/12/2024,liv 52,Syrup,branded,1,1,180,180,76,104,104
+11/12/2024,skinshine cream,cream,generic,1,1,80,80,34,46,46
+11/12/2024,amlokind h,tablet,branded,1,1,50,50,17.35,32.65,32.65
+11/12/2024,vildex m,tablet,generic,15,2,50,100,22.5,27.5,55
+11/12/2024,muceder t,tablet,generic,10,3,50,150,13.5,36.5,109.5
+11/12/2024,zandu baim,balm,Ayurvedic,1,1,40,40,17.5,22.5,22.5
+11/13/2024,montas-l,tablet,generic,10,1,70,70,28.5,41.5,41.5
+11/13/2024,cheston-cold,tablet,generic,10,1,30,30,12.5,17.5,17.5
+11/13/2024,acyclosure p,tablet,generic,10,1,30,30,9.75,20.25,20.25
+11/13/2024,napaspeed d,tablet,generic,10,1,100,100,43,57,57
+11/13/2024,stayfree ,pad,generic,1,1,120,120,45.5,74.5,74.5
+11/13/2024,liv 52,Syrup,branded,1,1,180,180,76,104,104
+11/14/2024,pet sefa,powder,Ayurvedic,1,1,110,110,34.5,75.5,75.5
+11/14/2024,livetone,Syrup,generic,1,1,90,90,32.5,57.5,57.5
+11/14/2024,dynaflex spray,spray,generic,1,1,160,160,87,73,73
+11/14/2024,hemoplus,Syrup,generic,1,1,110,110,47.33,62.67,62.67
+11/14/2024,cheston-cold,tablet,generic,10,1,30,30,12.5,17.5,17.5
+11/14/2024,montas-l,tablet,generic,10,1,70,70,28.5,41.5,41.5
+11/15/2024,clavix gold 20,Capsule,branded,15,2,110,220,53.75,56.25,112.5
+11/15/2024,stayfree ,pad,generic,1,1,120,120,45.5,74.5,74.5
+11/15/2024,pet sefa,powder,Ayurvedic,1,1,110,110,34.5,75.5,75.5
+11/15/2024,cheston-cold,tablet,generic,1,1,30,30,12.5,17.5,17.5
+11/16/2024,AtoskyÂ GoldÂ 20,Capsule,generic,10,3,60,180,29,31,93
+11/16/2024,metol xl-25,tablet,generic,10,3,30,90,8.75,21.25,63.75
+11/16/2024,pantomac-dsr,Capsule,generic,10,3,90,270,28.75,61.25,183.75
+11/16/2024,neeri,Syrup,branded,1,1,170,170,77.5,92.5,92.5
+11/16/2024,safi,Syrup,branded,1,1,90,90,33,57,57
+11/17/2024,remium gold,Capsule,generic,10,3,80,240,27.5,52.5,157.5
+11/17/2024,metol xl-25,tablet,generic,10,3,30,90,8.75,21.25,63.75
+11/17/2024,omee ,Syrup,generic,1,1,80,80,26.5,53.5,53.5
+11/17/2024,himalaya baby oil,oil,Ayurvedic,1,1,70,70,35,35,35
+11/17/2024,gripe water,Syrup,generic,1,1,70,70,29.25,40.75,40.75
+11/17/2024,liv 52,Syrup,branded,1,1,180,180,76,104,104
+11/18/2024,orthomac gel,gel,generic,1,1,100,100,33,67,67
+11/18/2024,montas-l,tablet,generic,10,1,80,80,28.5,51.5,51.5
+11/18/2024,pantomac-dsr,Capsule,generic,10,2,90,180,28.75,61.25,122.5
+11/18/2024,clinkul acne face wash,gel,generic,1,1,120,120,55,65,65
+11/18/2024,citrasol,Syrup,generic,1,1,70,70,37,33,33
+11/19/2024,orthomac gel,gel,generic,1,1,100,100,33,67,67
+11/19/2024,AtoskyÂ GoldÂ 20,Capsule,generic,10,3,60,180,29,31,93
+11/19/2024,metol xl-25,tablet,generic,10,3,30,90,8.75,21.25,63.75
+11/19/2024,montas-l,tablet,generic,10,2,70,140,28.5,41.5,83
+11/19/2024,pantomac-dsr,Capsule,generic,10,2,90,180,28.75,61.25,122.5
+11/20/2024,cheston-cold,tablet,generic,10,1,30,30,12.5,17.5,17.5
+11/20/2024,acyclosure p,tablet,generic,10,1,30,30,9.75,20.25,20.25
+11/20/2024,montecip LC,tablet,generic,10,1,80,80,24,56,56
+11/20/2024,stayfree ,pad,generic,1,1,120,120,45.5,74.5,74.5
+11/20/2024,rexcof,Syrup,generic,1,1,90,90,32,58,58
+11/20/2024,pantomac-dsr,Capsule,generic,10,2,90,180,28.75,61.25,122.5
+11/21/2024,pet sefa,powder,Ayurvedic,1,1,110,110,34.5,75.5,75.5
+11/21/2024,pantosec-dsr,Capsule,generic,10,2,90,180,27,63,126
+11/21/2024,himalaya face wash,gel,Ayurvedic,1,1,80,80,38,42,42
+11/21/2024,gripe water,Syrup,generic,1,1,70,70,29.25,40.75,40.75
+11/21/2024,gm-sr 2,tablet,generic,10,3,50,150,19.17,30.83,92.49
+11/21/2024,vildax m,tablet,generic,10,3,50,150,19,31,93
+11/21/2024,wakuff dx,Syrup,generic,1,1,90,90,27.5,62.5,62.5
+11/21/2024,cuflift ls,Syrup,generic,1,1,90,90,32.5,57.5,57.5
+11/22/2024,omniclav 625,tablet,generic,10,1,150,150,63,87,87
+11/22/2024,cheston-cold,tablet,generic,10,1,30,30,12.5,17.5,17.5
+11/22/2024,montas-l,tablet,generic,10,1,70,70,28.5,41.5,41.5
+11/22/2024,amrox-ls,Syrup,generic,1,1,90,90,35.5,54.5,54.5
+11/22/2024,dailyglim pm 2,tablet,generic,10,3,70,210,29,41,123
+11/22/2024,vildax m,tablet,generic,10,3,50,150,19,31,93
+11/23/2024,pantosec-dsr,Capsule,generic,10,2,90,180,27,63,126
+11/23/2024,rabesec-dsr,Capsule,generic,10,3,80,240,31.33,48.67,146.01
+11/23/2024,remium gold,Capsule,generic,10,3,80,240,27.5,52.5,157.5
+11/23/2024,cheston-cold,tablet,generic,10,1,30,30,12.5,17.5,17.5
+11/24/2024,pet sefa,powder,Ayurvedic,1,1,110,110,34.5,75.5,75.5
+11/24/2024,stayfree ,pad,generic,1,1,120,120,45.5,74.5,74.5
+11/24/2024,montas-l,Capsule,generic,10,1,70,70,28.5,41.5,41.5
+11/24/2024,cheston-cold,tablet,generic,1,1,30,30,12.5,17.5,17.5
+11/24/2024,rexcof,Syrup,generic,1,1,90,90,32,58,58
+11/24/2024,gripe water ,Syrup,generic,1,1,70,70,29.25,40.75,40.75
+11/25/2024,himalaya baby oil,oil,Ayurvedic,1,1,70,70,35,35,35
+11/25/2024,whisper,pad,branded,1,2,50,100,18.5,31.5,63
+11/25/2024,montas-l,tablet,generic,10,1,70,70,28.5,41.5,41.5
+11/25/2024,pantozec l,Capsule,generic,10,2,150,300,62,88,176
+11/25/2024,acyclosure p,tablet,generic,10,1,30,30,9.75,20.25,20.25
+11/26/2024,pantomac-dsr,Capsule,generic,10,2,90,180,28.75,61.25,122.5
+11/26/2024,prega news,kit,branded,1,1,50,50,17,33,33
+11/26/2024,omee ,Syrup,generic,1,1,80,80,26.5,53.5,53.5
+11/26/2024,neeri ,Syrup,branded,1,1,160,160,77.5,82.5,82.5
+11/26/2024,hemoplus ,Syrup,generic,1,1,110,110,47.33,62.67,62.67
+11/26/2024,rexcof ,Syrup,generic,1,1,90,90,32,58,58
+11/27/2024,cipvildin-m,tablet,generic,10,2,100,200,45.75,54.25,108.5
+11/27/2024,safi,Syrup,branded,1,1,90,90,33,57,57
+11/27/2024,liv 52,Syrup,branded,1,1,180,180,76,104,104
+11/27/2024,cheston-cold,tablet,generic,10,2,30,60,12.5,17.5,35
+11/27/2024,pantozec l,Capsule,generic,10,2,150,300,62,88,176
+11/28/2024,montas-l,tablet,generic,10,1,70,70,28.5,41.5,41.5
+11/28/2024,AtoskyÂ GoldÂ 20,Capsule,generic,10,3,60,180,29,31,93
+11/28/2024,livetone,Syrup,generic,1,1,90,90,32.5,57.5,57.5
+11/28/2024,skinshine cream,cream,generic,1,1,80,80,34,46,46
+11/28/2024,zandu baim,balm,Ayurvedic,1,2,40,80,17.5,22.5,45
+11/28/2024,prega news,kit,branded,1,1,50,50,17,33,33
+11/28/2024,esomifor dsr,Capsule,generic,10,2,110,220,58.5,51.5,103
+11/29/2024,acyclosure p,tablet,generic,10,2,30,60,9.75,20.25,40.5
+11/29/2024,stayfree ,pad,generic,1,1,120,120,45.5,74.5,74.5
+11/29/2024,cosart-h,tablet,generic,10,2,80,160,25,55,110
+11/29/2024,remium gold,Capsule,generic,10,2,80,160,27.5,52.5,105
+11/30/2024,gm-sr 2,tablet,generic,10,2,50,100,19.17,30.83,61.66
+11/30/2024,pantomac-dsr,Capsule,generic,10,1,90,90,28.75,61.25,61.25
+11/30/2024,saroglitazar,tablet,branded,10,1,400,400,160,240,240
+11/30/2024,vildax m,tablet,generic,10,2,50,100,19,31,62
+12/01/2024,swarna bhasma,powder,Ayurvedic,1,1,300,300,140,160,160
+12/01/2024,montas-l,tablet,generic,10,1,80,80,28.5,51.5,51.5
+12/01/2024,Megaspas,tablet,generic,10,1,20,20,4.5,15.5,15.5
+12/01/2024,cheston-cold,tablet,generic,10,2,30,60,12.5,17.5,35
+12/01/2024,manforce xotic,condom,branded,3,2,35,70,13,22,44
+12/02/2024,cipla multivitamin ,tablet,branded,10,1,110,110,35,75,75
+12/02/2024,pantomac-dsr,Capsule,generic,10,1,90,90,28.75,61.25,61.25
+12/02/2024,cheston-cold,tablet,generic,10,2,30,60,12.5,17.5,35
+12/02/2024,paracetamol,tablet,generic,10,1,30,30,3,27,27
+12/02/2024,rexcof,Syrup,generic,1,1,90,90,32,58,58
+12/03/2024,festive dee,drop,generic,1,1,50,50,22,28,28
+12/03/2024,pantomac-dsr,Capsule,generic,10,1,90,90,28.75,61.25,61.25
+12/03/2024,whisper,pad,branded,1,2,50,100,18.5,31.5,63
+12/03/2024,flexon,tablet,branded,15,1,30,30,9,21,21
+12/03/2024,acyclosure p,tablet,generic,10,1,30,30,9.75,20.25,20.25
+12/03/2024,omniclav 625,tablet,generic,10,1,150,150,63,87,87
+12/04/2024,pet sefa,powder,Ayurvedic,1,1,110,110,34.5,75.5,75.5
+12/04/2024,cheston-cold,tablet,generic,1,1,30,30,12.5,17.5,17.5
+12/04/2024,AtoskyÂ GoldÂ 20,Capsule,generic,10,2,60,120,29,31,62
+12/04/2024,metol xl-25,tablet,generic,10,2,30,60,8.75,21.25,42.5
+12/04/2024,paracetamol,tablet,generic,10,1,30,30,3,27,27
+12/04/2024,cipvildin-m,tablet,generic,10,2,100,200,45.75,54.25,108.5
+12/05/2024,gripe water ,Syrup,generic,1,1,70,70,29.25,40.75,40.75
+12/05/2024,himalaya baby oil,oil,Ayurvedic,1,1,70,70,35,35,35
+12/05/2024,whisper,pad,branded,1,2,50,100,18.5,31.5,63
+12/05/2024,montas-l,tablet,generic,10,1,70,70,28.5,41.5,41.5
+12/05/2024,cipla multivitamin ,tablet,branded,10,1,110,110,35,75,75
+12/05/2024,acyclosure p,tablet,generic,10,1,30,30,9.75,20.25,20.25
+12/05/2024,flexon,tablet,branded,15,1,30,30,9,21,21
+12/06/2024,orthomac gel,gel,generic,1,1,100,100,33,67,67
+12/06/2024,montas-l,tablet,generic,10,2,80,160,28.5,51.5,103
+12/06/2024,pantomac-dsr,Capsule,generic,10,1,90,90,28.75,61.25,61.25
+12/06/2024,saroglitazar,tablet,branded,10,1,400,400,160,240,240
+12/07/2024,rabesec-dsr,Capsule,generic,10,2,80,160,31.33,48.67,97.34
+12/07/2024,pantozec l,Capsule,generic,10,1,150,150,62,88,88
+12/07/2024,prega news,kit,branded,1,1,50,50,17,33,33
+12/07/2024,metol xl-25,tablet,generic,10,2,30,60,8.75,21.25,42.5
+12/07/2024,omee ,Syrup,generic,1,1,80,80,26.5,53.5,53.5
+12/07/2024,zandu baim,balm,Ayurvedic,1,1,40,40,17.5,22.5,22.5
+12/07/2024,paracetamol,tablet,generic,10,1,30,30,3,27,27
+12/08/2024,remium gold,Capsule,generic,10,3,80,240,27.5,52.5,157.5
+12/08/2024,cheston-cold,tablet,generic,10,1,30,30,12.5,17.5,17.5
+12/08/2024,pet sefa,powder,Ayurvedic,1,1,110,110,34.5,75.5,75.5
+12/08/2024,AtoskyÂ GoldÂ 20,Capsule,generic,10,2,60,120,29,31,62
+12/08/2024,cosart-h,tablet,generic,10,2,80,160,25,55,110
+12/08/2024,dailyglim pm 2,tablet,generic,10,3,70,210,29,41,123
+12/08/2024,stayfree ,pad,generic,1,1,120,120,45.5,74.5,74.5
+12/08/2024,liv 52,Syrup,branded,1,1,180,180,76,104,104
+12/09/2024,clavix gold 20,Capsule,branded,15,2,110,220,53.75,56.25,112.5
+12/09/2024,flexon,tablet,branded,15,1,30,30,9,21,21
+12/09/2024,cheston-cold,tablet,generic,10,2,30,60,12.5,17.5,35
+12/09/2024,acyclosure p,tablet,generic,10,1,30,30,9.75,20.25,20.25
+12/09/2024,montecip LC,tablet,generic,10,1,80,80,24,56,56
+12/09/2024,cuflift ls,Syrup,generic,1,1,90,90,32.5,57.5,57.5
+12/10/2024,ascodex ls,Syrup,generic,1,1,90,90,37,53,53
+12/10/2024,montas-l,tablet,generic,10,1,80,80,28.5,51.5,51.5
+12/10/2024,oflokem-200,tablet,generic,10,1,50,50,12.33,37.67,37.67
+12/10/2024,cipla multivitamin ,tablet,branded,10,1,110,110,35,75,75
+12/10/2024,fenak plus,tablet,generic,10,3,10,30,3,7,21
+12/10/2024,citrasol,Syrup,generic,1,1,70,70,37,33,33
+12/10/2024,orthomac gel,gel,generic,1,1,100,100,33,67,67
+12/10/2024,himalaya baby oil,oil,Ayurvedic,1,1,70,70,35,35,35
+12/10/2024,vildax m,tablet,generic,10,2,50,100,19,31,62
+12/11/2024,cuflift ls,Syrup,generic,1,1,90,90,32.5,57.5,57.5
+12/11/2024,omniclav 625,tablet,generic,10,1,150,150,63,87,87
+12/11/2024,remium gold,Capsule,generic,10,1,80,80,27.5,52.5,52.5
+12/11/2024,paracetamol,tablet,generic,10,1,30,30,3,27,27
+12/12/2024,cosart-h,tablet,generic,10,2,80,160,25,55,110
+12/12/2024,dailyglim pm 2,tablet,generic,10,1,70,70,29,41,41
+12/12/2024,gm-sr 2,tablet,generic,10,2,50,100,19.17,30.83,61.66
+12/12/2024,saroglitazar,tablet,branded,10,1,400,400,160,240,240
+12/12/2024,manforce xotic,condom,branded,3,1,35,35,13,22,22
+12/13/2024,flexon,tablet,branded,15,1,30,30,9,21,21
+12/13/2024,diclo plus,tablet,branded,10,1,30,30,7,23,23
+12/13/2024,napaspeed d,tablet,generic,10,1,100,100,43,57,57
+12/13/2024,stayfree ,pad,generic,1,1,120,120,45.5,74.5,74.5
+12/13/2024,liv 52,Syrup,branded,1,1,180,180,76,104,104
+12/13/2024,AtoskyÂ GoldÂ 20,Capsule,generic,10,2,60,120,29,31,62
+12/13/2024,cipla multivitamin ,tablet,branded,10,1,110,110,35,75,75
+12/14/2024,Megaspas,tablet,generic,10,1,20,20,4.5,15.5,15.5
+12/14/2024,esomifor dsr,Capsule,generic,10,2,110,220,58.5,51.5,103
+12/14/2024,montas-l,tablet,generic,10,1,70,70,28.5,41.5,41.5
+12/15/2024,montecip LC,tablet,generic,10,1,80,80,24,56,56
+12/15/2024,metol xl-25 ,tablet,generic,10,3,30,90,8.75,21.25,63.75
+12/15/2024,pet sefa,powder,Ayurvedic,1,1,110,110,34.5,75.5,75.5
+12/15/2024,amrox-ls,Syrup,generic,1,1,90,90,35.5,54.5,54.5
+12/15/2024,stayfree ,pad,generic,1,1,120,120,45.5,74.5,74.5
+12/15/2024,prega news,kit,branded,1,1,50,50,17,33,33
+12/15/2024,saroglitazar,tablet,branded,10,1,400,400,160,240,240
+12/16/2024,cheston-cold,tablet,generic,10,1,30,30,12.5,17.5,17.5
+12/16/2024,montas-l,tablet,generic,10,1,80,80,28.5,51.5,51.5
+12/16/2024,pet sefa,powder,Ayurvedic,1,1,110,110,34.5,75.5,75.5
+12/16/2024,flexon,tablet,branded,15,1,30,30,9,21,21
+12/16/2024,remium gold,Capsule,generic,10,1,80,80,27.5,52.5,52.5
+12/16/2024,Megaspas,tablet,generic,10,1,20,20,4.5,15.5,15.5
+12/16/2024,Metol xl-25 ,tablet,generic,10,2,30,60,8.75,21.25,42.5
+12/17/2024,remium gold,Capsule,generic,10,3,80,240,27.5,52.5,157.5
+12/17/2024,acyclosure p,tablet,generic,10,1,30,30,9.75,20.25,20.25
+12/17/2024,paracetamol,tablet,generic,10,1,30,30,3,27,27
+12/17/2024,cheston-cold,tablet,generic,10,1,30,30,12.5,17.5,17.5
+12/17/2024,montas-l,tablet,generic,10,1,80,80,28.5,51.5,51.5
+12/17/2024,fenak plus,tablet,generic,10,1,10,10,3,7,7
+12/17/2024,zandu baim,balm,Ayurvedic,1,1,40,40,17.5,22.5,22.5
+12/17/2024,omee ,Syrup,generic,1,1,80,80,26.5,53.5,53.5
+12/17/2024,prega news,kit,branded,1,1,50,50,17,33,33
+12/18/2024,Nimos P,tablet,generic,10,1,20,20,3.75,16.25,16.25
+12/18/2024,esomifor dsr,Capsule,generic,10,3,120,360,58.5,61.5,184.5
+12/18/2024,clavix gold 20,Capsule,branded,15,2,110,220,53.75,56.25,112.5
+12/18/2024,cipla multivitamin ,tablet,branded,10,1,110,110,35,75,75
+12/18/2024,cheston-cold,tablet,generic,10,2,30,60,12.5,17.5,35
+12/19/2024,acyclosure p,tablet,generic,10,1,30,30,9.75,20.25,20.25
+12/19/2024,swarna bhasma,powder,Ayurvedic,1,1,300,300,140,160,160
+12/19/2024,manforce xotic,condom,branded,3,2,35,70,13,22,44
+12/19/2024,pantomac-dsr,Capsule,generic,10,1,90,90,28.75,61.25,61.25
+12/19/2024,pet sefa,powder,Ayurvedic,1,1,110,110,34.5,75.5,75.5
+12/19/2024,ascodex ls,Syrup,generic,1,1,90,90,37,53,53
+12/19/2024,montas-l,tablet,generic,10,1,80,80,28.5,51.5,51.5
+12/19/2024,oflokem-200,tablet,generic,10,1,50,50,12.33,37.67,37.67
+12/20/2024,AtoskyÂ GoldÂ 20,Capsule,generic,10,3,60,180,29,31,93
+12/20/2024,cipla multivitamin ,tablet,branded,10,1,110,110,35,75,75
+12/20/2024,metol xl-25 ,tablet,generic,10,3,30,90,8.75,21.25,63.75
+12/20/2024,acyclosure p,tablet,generic,10,1,30,30,9.75,20.25,20.25
+12/20/2024,cheston-cold,tablet,generic,10,1,30,30,12.5,17.5,17.5
+12/20/2024,montas-l,tablet,generic,10,1,80,80,28.5,51.5,51.5
+12/20/2024,Megaspas,tablet,generic,10,1,20,20,4.5,15.5,15.5
+12/21/2024,cheston-cold,tablet,generic,10,2,30,60,12.5,17.5,35
+12/21/2024,montecip LC,tablet,generic,10,1,80,80,24,56,56
+12/21/2024,paracetamol,tablet,generic,10,1,30,30,3,27,27
+12/21/2024,AtoskyÂ GoldÂ 20,Capsule,generic,10,3,60,180,29,31,93
+12/21/2024,metol xl-25 ,tablet,generic,10,3,30,90,8.75,21.25,63.75
+12/21/2024,prega news,kit,branded,1,1,50,50,17,33,33
+12/21/2024,citrasol,Syrup,generic,1,1,70,70,37,33,33
+12/21/2024,remium gold ,Capsule,generic,10,3,80,240,27.5,52.5,157.5
+12/22/2024,metol xl-25 ,tablet,generic,10,3,30,90,8.75,21.25,63.75
+12/22/2024,pet sefa,powder,Ayurvedic,1,1,110,110,34.5,75.5,75.5
+12/22/2024,amrox-ls,Syrup,generic,1,1,90,90,35.5,54.5,54.5
+12/22/2024,zandu baim,balm,Ayurvedic,1,1,40,40,17.5,22.5,22.5
+12/22/2024,pantomac-dsr,Capsule,generic,10,1,90,90,28.75,61.25,61.25
+12/22/2024,gm-sr 2,tablet,generic,10,3,50,150,19.17,30.83,92.49
+12/22/2024,metol xl-25 ,tablet,generic,10,3,30,90,8.75,21.25,63.75
+12/23/2024,AtoskyÂ GoldÂ 20,Capsule,generic,10,2,60,120,29,31,62
+12/23/2024,flexon,tablet,branded,15,1,30,30,9,21,21
+12/23/2024,paracetamol,tablet,generic,10,1,30,30,3,27,27
+12/23/2024,acyclosure p,tablet,generic,10,2,30,60,9.75,20.25,40.5
+12/23/2024,montas-l,tablet,generic,10,2,70,140,28.5,41.5,83
+12/23/2024,esomifor dsr,Capsule,generic,10,1,110,110,58.5,51.5,51.5
+12/23/2024,hemoplus,Syrup,generic,1,1,110,110,47.33,62.67,62.67
+12/24/2024,luliconazole cream,cream,generic,1,1,120,120,66,54,54
+12/24/2024,dynaflex spray,spray,generic,1,1,170,170,87,83,83
+12/24/2024,pantosec ls,Capsule,generic,10,2,120,240,57,63,126
+12/24/2024,cipvildin-m,tablet,generic,10,2,100,200,45.75,54.25,108.5
+12/25/2024,metol xl-25 ,tablet,generic,10,2,30,60,8.75,21.25,42.5
+12/25/2024,flexon,tablet,branded,15,1,30,30,9,21,21
+12/25/2024,dermikem oc,cream,generic,1,1,80,80,31,49,49
+12/25/2024,orthomac gel,gel,generic,1,1,100,100,33,67,67
+12/25/2024,AtoskyÂ GoldÂ 20,Capsule,generic,10,2,60,120,29,31,62
+12/25/2024,cosart-h,tablet,generic,10,2,80,160,25,55,110
+12/26/2024,dailyglim pm 2,tablet,generic,10,3,70,210,29,41,123
+12/26/2024,gm-sr 2,tablet,generic,10,3,50,150,19.17,30.83,92.49
+12/26/2024,cipla multivitamin ,tablet,branded,10,1,110,110,35,75,75
+12/26/2024,rabesec-dsr,Capsule,generic,10,3,100,300,31.33,68.67,206.01
+12/26/2024,festive dee,drop,generic,1,1,50,50,22,28,28
+12/26/2024,liv 52,Syrup,branded,1,1,180,180,76,104,104
+12/27/2024,skinshine cream,cream,generic,1,1,80,80,34,46,46
+12/27/2024,amlokind h,tablet,branded,1,1,50,50,17.35,32.65,32.65
+12/27/2024,vildex m,tablet,generic,15,2,50,100,22.5,27.5,55
+12/27/2024,flexon,tablet,branded,15,1,30,30,9,21,21
+12/27/2024,paracetamol,tablet,generic,10,1,30,30,3,27,27
+12/27/2024,zandu baim,balm,Ayurvedic,1,1,40,40,17.5,22.5,22.5
+12/27/2024,montas-l,tablet,generic,10,1,70,70,28.5,41.5,41.5
+12/28/2024,cheston-cold,tablet,generic,10,1,30,30,12.5,17.5,17.5
+12/28/2024,acyclosure p,tablet,generic,10,1,30,30,9.75,20.25,20.25
+12/28/2024,napaspeed d,tablet,generic,10,1,100,100,43,57,57
+12/28/2024,stayfree ,pad,generic,1,1,120,120,45.5,74.5,74.5
+12/28/2024,liv 52,Syrup,branded,1,1,180,180,76,104,104
+12/28/2024,pet sefa,powder,Ayurvedic,1,1,110,110,34.5,75.5,75.5
+12/29/2024,livetone,Syrup,generic,1,1,90,90,32.5,57.5,57.5
+12/29/2024,dynaflex spray,spray,generic,1,1,160,160,87,73,73
+12/29/2024,hemoplus,Syrup,generic,1,1,110,110,47.33,62.67,62.67
+12/29/2024,cheston-cold,tablet,generic,10,1,30,30,12.5,17.5,17.5
+12/29/2024,montas-l,tablet,generic,10,1,70,70,28.5,41.5,41.5
+12/29/2024,clavix gold 20,Capsule,branded,15,2,110,220,53.75,56.25,112.5
+12/30/2024,stayfree ,pad,generic,1,1,120,120,45.5,74.5,74.5
+12/30/2024,pet sefa,powder,Ayurvedic,1,1,110,110,34.5,75.5,75.5
+12/30/2024,cheston-cold,tablet,generic,1,1,30,30,12.5,17.5,17.5
+12/30/2024,AtoskyÂ GoldÂ 20,Capsule,generic,10,3,60,180,29,31,93
+12/31/2024,metol xl-25,tablet,generic,10,3,30,90,8.75,21.25,63.75
+12/31/2024,pantomac-dsr,Capsule,generic,10,3,90,270,28.75,61.25,183.75
+12/31/2024,neeri,Syrup,branded,1,1,170,170,77.5,92.5,92.5
+12/31/2024,safi,Syrup,branded,1,1,90,90,33,57,57
+12/31/2024,remium gold,Capsule,generic,10,3,80,240,27.5,52.5,157.5
+01/01/2025,metol xl-25,tablet,generic,10,3,30,90,8.75,21.25,63.75
+01/01/2025,flexon,tablet,branded,15,1,30,30,9,21,21
+01/01/2025,omee ,Syrup,generic,1,1,80,80,26.5,53.5,53.5
+01/01/2025,himalaya baby oil,oil,Ayurvedic,1,1,70,70,35,35,35
+01/01/2025,gripe water,Syrup,generic,1,1,70,70,29.25,40.75,40.75
+01/01/2025,liv 52,Syrup,branded,1,1,180,180,76,104,104
+01/01/2025,orthomac gel,gel,generic,1,1,100,100,33,67,67
+01/02/2025,montas-l,tablet,generic,10,1,80,80,28.5,51.5,51.5
+01/02/2025,pantomac-dsr,Capsule,generic,10,2,90,180,28.75,61.25,122.5
+01/02/2025,clinkul acne face wash,gel,generic,1,1,120,120,55,65,65
+01/02/2025,citrasol,Syrup,generic,1,1,70,70,37,33,33
+01/02/2025,orthomac gel,gel,generic,1,1,100,100,33,67,67
+01/03/2025,diclo plus,tablet,branded,10,1,30,30,7,23,23
+01/03/2025,AtoskyÂ GoldÂ 20,Capsule,generic,10,3,60,180,29,31,93
+01/03/2025,metol xl-25,tablet,generic,10,3,30,90,8.75,21.25,63.75
+01/03/2025,montas-l,tablet,generic,10,2,70,140,28.5,41.5,83
+01/03/2025,pantomac-dsr,Capsule,generic,10,2,90,180,28.75,61.25,122.5
+01/03/2025,cheston-cold,tablet,generic,10,1,30,30,12.5,17.5,17.5
+01/04/2025,acyclosure p,tablet,generic,10,1,30,30,9.75,20.25,20.25
+01/04/2025,montecip LC,tablet,generic,10,1,80,80,24,56,56
+01/04/2025,stayfree ,pad,generic,1,1,120,120,45.5,74.5,74.5
+01/04/2025,rexcof,Syrup,generic,1,1,90,90,32,58,58
+01/04/2025,pantomac-dsr,Capsule,generic,10,2,90,180,28.75,61.25,122.5
+01/04/2025,pet sefa,powder,Ayurvedic,1,1,110,110,34.5,75.5,75.5
+01/05/2025,cipla multivitamin ,tablet,branded,10,1,110,110,35,75,75
+01/05/2025,pantosec-dsr,Capsule,generic,10,2,90,180,27,63,126
+01/05/2025,himalaya face wash,gel,Ayurvedic,1,1,80,80,38,42,42
+01/05/2025,gripe water,Syrup,generic,1,1,70,70,29.25,40.75,40.75
+01/05/2025,gm-sr 2,tablet,generic,10,3,50,150,19.17,30.83,92.49
+01/05/2025,vildax m,tablet,generic,10,3,50,150,19,31,93
+01/05/2025,wakuff dx,Syrup,generic,1,1,90,90,27.5,62.5,62.5
+01/05/2025,cuflift ls,Syrup,generic,1,1,90,90,32.5,57.5,57.5
+01/05/2025,omniclav 625,tablet,generic,10,1,150,150,63,87,87
+01/06/2025,cheston-cold,tablet,generic,10,1,30,30,12.5,17.5,17.5
+01/06/2025,montas-l,tablet,generic,10,1,70,70,28.5,41.5,41.5
+01/06/2025,amrox-ls,Syrup,generic,1,1,90,90,35.5,54.5,54.5
+01/06/2025,dailyglim pm 2,tablet,generic,10,3,70,210,29,41,123
+01/06/2025,vildax m,tablet,generic,10,3,50,150,19,31,93
+01/06/2025,pantosec-dsr,Capsule,generic,10,2,90,180,27,63,126
+01/07/2025,rabesec-dsr,Capsule,generic,10,3,80,240,31.33,48.67,146.01
+01/07/2025,swarna bhasma,powder,Ayurvedic,1,1,300,300,140,160,160
+01/07/2025,remium gold,Capsule,generic,10,3,80,240,27.5,52.5,157.5
+01/07/2025,cheston-cold,tablet,generic,10,1,30,30,12.5,17.5,17.5
+01/07/2025,pet sefa,powder,Ayurvedic,1,1,110,110,34.5,75.5,75.5
+01/08/2025,stayfree ,pad,generic,1,1,120,120,45.5,74.5,74.5
+01/08/2025,montas-l,Capsule,generic,10,2,70,140,28.5,41.5,83
+01/08/2025,cheston-cold,tablet,generic,1,1,30,30,12.5,17.5,17.5
+01/08/2025,rexcof,Syrup,generic,1,1,90,90,32,58,58
+01/08/2025,gripe water ,Syrup,generic,1,1,70,70,29.25,40.75,40.75
+01/08/2025,himalaya baby oil,oil,Ayurvedic,1,1,70,70,35,35,35
+01/09/2025,whisper,pad,branded,1,2,50,100,18.5,31.5,63
+01/09/2025,montas-l,tablet,generic,10,1,70,70,28.5,41.5,41.5
+01/09/2025,pantozec l,Capsule,generic,10,2,150,300,62,88,176
+01/09/2025,acyclosure p,tablet,generic,10,1,30,30,9.75,20.25,20.25
+01/09/2025,pantomac-dsr,Capsule,generic,10,2,90,180,28.75,61.25,122.5
+01/10/2025,prega news,kit,branded,1,1,50,50,17,33,33
+01/10/2025,omee ,Syrup,generic,1,1,80,80,26.5,53.5,53.5
+01/10/2025,neeri ,Syrup,branded,1,1,160,160,77.5,82.5,82.5
+01/10/2025,hemoplus ,Syrup,generic,1,1,110,110,47.33,62.67,62.67
+01/10/2025,rexcof ,Syrup,generic,1,1,90,90,32,58,58
+01/10/2025,cipvildin-m,tablet,generic,10,2,100,200,45.75,54.25,108.5
+01/11/2025,safi,Syrup,branded,1,1,90,90,33,57,57
+01/11/2025,manforce xotic,condom,branded,3,1,35,35,13,22,22
+01/11/2025,liv 52,Syrup,branded,1,2,180,360,76,104,208
+01/11/2025,cheston-cold,tablet,generic,10,2,30,60,12.5,17.5,35
+01/11/2025,pantozec l,Capsule,generic,10,2,150,300,62,88,176
+01/11/2025,montas-l,tablet,generic,10,1,70,70,28.5,41.5,41.5
+01/12/2025,AtoskyÂ GoldÂ 20,Capsule,generic,10,3,60,180,29,31,93
+01/12/2025,livetone,Syrup,generic,1,1,90,90,32.5,57.5,57.5
+01/12/2025,skinshine cream,cream,generic,1,1,80,80,34,46,46
+01/12/2025,flexon,tablet,branded,15,1,30,30,9,21,21
+01/12/2025,zandu baim,balm,Ayurvedic,1,2,40,80,17.5,22.5,45
+01/12/2025,prega news,kit,branded,1,1,50,50,17,33,33
+01/12/2025,esomifor dsr,Capsule,generic,10,2,110,220,58.5,51.5,103
+01/12/2025,acyclosure p,tablet,generic,10,2,30,60,9.75,20.25,40.5
+01/13/2025,stayfree ,pad,generic,1,1,120,120,45.5,74.5,74.5
+01/13/2025,cosart-h,tablet,generic,10,2,80,160,25,55,110
+01/13/2025,flexon,tablet,branded,15,1,30,30,9,21,21
+01/13/2025,remium gold,Capsule,generic,10,2,80,160,27.5,52.5,105
+01/14/2025,gm-sr 2,tablet,generic,10,2,50,100,19.17,30.83,61.66
+01/14/2025,pantomac-dsr,Capsule,generic,10,1,90,90,28.75,61.25,61.25
+01/14/2025,saroglitazar,tablet,branded,10,1,400,400,160,240,240
+01/14/2025,vildax m,tablet,generic,10,2,50,100,19,31,62
+01/14/2025,swarna bhasma,powder,Ayurvedic,1,1,300,300,140,160,160
+01/15/2025,montas-l,tablet,generic,10,1,80,80,28.5,51.5,51.5
+01/15/2025,Megaspas,tablet,generic,10,1,20,20,4.5,15.5,15.5
+01/15/2025,cheston-cold,tablet,generic,10,2,30,60,12.5,17.5,35
+01/15/2025,manforce xotic,condom,branded,3,2,35,70,13,22,44
+01/15/2025,cipla multivitamin ,tablet,branded,10,1,110,110,35,75,75
+01/16/2025,pantomac-dsr,Capsule,generic,10,1,90,90,28.75,61.25,61.25
+01/16/2025,cheston-cold,tablet,generic,10,2,30,60,12.5,17.5,35
+01/16/2025,paracetamol,tablet,generic,10,2,30,60,3,27,54
+01/16/2025,rexcof,Syrup,generic,1,1,90,90,32,58,58
+01/16/2025,festive dee,drop,generic,1,1,50,50,22,28,28
+01/17/2025,pantomac-dsr,Capsule,generic,10,1,90,90,28.75,61.25,61.25
+01/17/2025,whisper,pad,branded,1,2,50,100,18.5,31.5,63
+01/17/2025,flexon,tablet,branded,15,1,30,30,9,21,21
+01/17/2025,acyclosure p,tablet,generic,10,1,30,30,9.75,20.25,20.25
+01/17/2025,omniclav 625,tablet,generic,10,1,150,150,63,87,87
+01/17/2025,pet sefa,powder,Ayurvedic,1,1,110,110,34.5,75.5,75.5
+01/18/2025,cheston-cold,tablet,generic,1,1,30,30,12.5,17.5,17.5
+01/18/2025,AtoskyÂ GoldÂ 20,Capsule,generic,10,1,60,60,29,31,31
+01/18/2025,metol xl-25,tablet,generic,10,1,30,30,8.75,21.25,21.25
+01/18/2025,paracetamol,tablet,generic,10,1,30,30,3,27,27
+01/18/2025,cipvildin-m,tablet,generic,10,2,100,200,45.75,54.25,108.5
+01/18/2025,gripe water ,Syrup,generic,1,1,70,70,29.25,40.75,40.75
+01/19/2025,himalaya baby oil,oil,Ayurvedic,1,1,70,70,35,35,35
+01/19/2025,whisper,pad,branded,1,1,50,50,18.5,31.5,31.5
+01/19/2025,montas-l,tablet,generic,10,1,70,70,28.5,41.5,41.5
+01/19/2025,cipla multivitamin ,tablet,branded,10,1,110,110,35,75,75
+01/19/2025,acyclosure p,tablet,generic,10,1,30,30,9.75,20.25,20.25
+01/19/2025,flexon,tablet,branded,15,1,30,30,9,21,21
+01/19/2025,orthomac gel,gel,generic,1,1,100,100,33,67,67
+01/20/2025,montas-l,tablet,generic,10,1,80,80,28.5,51.5,51.5
+01/20/2025,pantomac-dsr,Capsule,generic,10,1,90,90,28.75,61.25,61.25
+01/20/2025,saroglitazar,tablet,branded,10,1,400,400,160,240,240
+01/20/2025,rabesec-dsr,Capsule,generic,10,1,80,80,31.33,48.67,48.67
+01/21/2025,pantozec l,Capsule,generic,10,1,150,150,62,88,88
+01/21/2025,prega news,kit,branded,1,1,50,50,17,33,33
+01/21/2025,metol xl-25,tablet,generic,10,1,30,30,8.75,21.25,21.25
+01/21/2025,omee ,Syrup,generic,1,1,80,80,26.5,53.5,53.5
+01/21/2025,zandu baim,balm,Ayurvedic,1,1,40,40,17.5,22.5,22.5
+01/21/2025,paracetamol,tablet,generic,10,1,30,30,3,27,27
+01/21/2025,remium gold,Capsule,generic,10,1,80,80,27.5,52.5,52.5
+01/22/2025,cheston-cold,tablet,generic,10,1,30,30,12.5,17.5,17.5
+01/22/2025,pet sefa,powder,Ayurvedic,1,1,110,110,34.5,75.5,75.5
+01/22/2025,AtoskyÂ GoldÂ 20,Capsule,generic,10,1,60,60,29,31,31
+01/22/2025,cosart-h,tablet,generic,10,1,80,80,25,55,55
+01/22/2025,dailyglim pm 2,tablet,generic,10,1,70,70,29,41,41
+01/22/2025,stayfree ,pad,generic,1,1,120,120,45.5,74.5,74.5
+01/22/2025,liv 52,Syrup,branded,1,1,180,180,76,104,104
+01/22/2025,clavix gold 20,Capsule,branded,15,1,110,110,53.75,56.25,56.25
+01/23/2025,flexon,tablet,branded,15,1,30,30,9,21,21
+01/23/2025,cheston-cold,tablet,generic,10,1,30,30,12.5,17.5,17.5
+01/23/2025,acyclosure p,tablet,generic,10,1,30,30,9.75,20.25,20.25
+01/23/2025,montecip LC,tablet,generic,10,1,80,80,24,56,56
+01/23/2025,cuflift ls,Syrup,generic,1,1,90,90,32.5,57.5,57.5
+01/23/2025,ascodex ls,Syrup,generic,1,1,90,90,37,53,53
+01/24/2025,montas-l,tablet,generic,10,1,80,80,28.5,51.5,51.5
+01/24/2025,oflokem-200,tablet,generic,10,1,50,50,12.33,37.67,37.67
+01/24/2025,cipla multivitamin ,tablet,branded,10,1,110,110,35,75,75
+01/24/2025,fenak plus,tablet,generic,10,1,10,10,3,7,7
+01/24/2025,citrasol,Syrup,generic,1,1,70,70,37,33,33
+01/24/2025,orthomac gel,gel,generic,1,1,100,100,33,67,67
+01/24/2025,himalaya baby oil,oil,Ayurvedic,1,1,70,70,35,35,35
+01/24/2025,vildax m,tablet,generic,10,1,50,50,19,31,31
+01/24/2025,cuflift ls,Syrup,generic,1,1,90,90,32.5,57.5,57.5
+01/25/2025,omniclav 625,tablet,generic,10,1,150,150,63,87,87
+01/25/2025,remium gold,Capsule,generic,10,1,80,80,27.5,52.5,52.5
+01/25/2025,paracetamol,tablet,generic,10,1,30,30,3,27,27
+01/25/2025,cosart-h,tablet,generic,10,1,80,80,25,55,55
+01/26/2025,dailyglim pm 2,tablet,generic,10,1,70,70,29,41,41
+01/26/2025,gm-sr 2,tablet,generic,10,1,50,50,19.17,30.83,30.83
+01/26/2025,saroglitazar,tablet,branded,10,1,400,400,160,240,240
+01/26/2025,manforce xotic,condom,branded,3,1,35,35,13,22,22
+01/26/2025,flexon,tablet,branded,15,1,30,30,9,21,21
+01/27/2025,diclo plus,tablet,branded,10,1,30,30,7,23,23
+01/27/2025,napaspeed d,tablet,generic,10,1,100,100,43,57,57
+01/27/2025,stayfree ,pad,generic,1,1,120,120,45.5,74.5,74.5
+01/27/2025,liv 52,Syrup,branded,1,1,180,180,76,104,104
+01/27/2025,AtoskyÂ GoldÂ 20,Capsule,generic,10,1,60,60,29,31,31
+01/27/2025,cipla multivitamin ,tablet,branded,10,1,110,110,35,75,75
+01/27/2025,Megaspas,tablet,generic,10,1,20,20,4.5,15.5,15.5
+01/28/2025,esomifor dsr,Capsule,generic,10,1,110,110,58.5,51.5,51.5
+01/28/2025,montas-l,tablet,generic,10,1,70,70,28.5,41.5,41.5
+01/28/2025,montecip LC,tablet,generic,10,1,80,80,24,56,56
+01/29/2025,metol xl-25 ,tablet,generic,10,1,30,30,8.75,21.25,21.25
+01/29/2025,pet sefa,powder,Ayurvedic,1,1,110,110,34.5,75.5,75.5
+01/29/2025,amrox-ls,Syrup,generic,1,1,90,90,35.5,54.5,54.5
+01/29/2025,stayfree ,pad,generic,1,1,120,120,45.5,74.5,74.5
+01/29/2025,prega news,kit,branded,1,1,50,50,17,33,33
+01/30/2025,flexon,tablet,branded,15,1,30,30,9,21,21
+01/30/2025,cheston-cold,tablet,generic,10,1,30,30,12.5,17.5,17.5
+01/30/2025,acyclosure p,tablet,generic,10,1,30,30,9.75,20.25,20.25
+01/30/2025,montas-l,tablet,generic,10,1,70,70,28.5,41.5,41.5
+01/30/2025,cipla multivitamin ,tablet,branded,10,1,110,110,35,75,75
+01/31/2025,acyclosure p,tablet,generic,10,1,30,30,9.75,20.25,20.25
+01/31/2025,paracetamol,tablet,generic,10,1,30,30,3,27,27
+01/31/2025,remium gold,Capsule,generic,10,1,80,80,27.5,52.5,52.5
+01/31/2025,cheston-cold,tablet,generic,10,1,30,30,12.5,17.5,17.5
+01/31/2025,omniclav 625,tablet,generic,10,1,150,150,63,87,87
+01/31/2025,cheston-cold,tablet,generic,10,1,30,30,12.5,17.5,17.5
+01/31/2025,prega news,kit,branded,1,1,50,50,17,33,33
