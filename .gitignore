@@ -50,10 +50,10 @@ env/
 *.ipynb_checkpoints
 
 # Data files (keep in .gitignore to avoid large files)
-*.csv
-data/
+# *.csv
+# data/
 
 # Generated outputs (optional - comment if you want to commit)
-outputs/
+# outputs/
 *.pkl
 *.joblib
